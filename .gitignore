@@ -1,0 +1,8 @@
+# Original camera files (~100 MB). The committed evidence lives in images/
+# as JPEGs; crops there are cut from these full-resolution originals.
+IMG_*.png
+
+# Correspondence with third parties. Contains other people's email addresses
+# and their private replies. Not published here -- the substance is quoted
+# with attribution in README.md instead.
+email.pdf

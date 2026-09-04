@@ -3,11 +3,20 @@
 For determining which issue/state a physical copy is, and what it can be
 compared against.
 
+> **Status — 4 September 2026: this copy is Variant B.** The *Purgatorio*
+> II.64-66 tercet is present at the foot of the verse column on V7 recto. The
+> leaf is confirmed by the signature `X` two leaves later, not by counting. See
+> [Result on this copy](#result-on-this-copy--variant-b-) and
+> [Photographs of this copy](#photographs-of-this-copy). Checks 2, 5 and 6 are
+> still open.
+
 Everything under "What the catalogues say" is quoted from WorldCat records in
 the Anna's Archive worldcat release (scraped 2022–2023, released 2025-08-04),
 reachable in this database as `rpt.item` / `aac.record` where
 `collection = 'worldcat'`. Anything I inferred rather than read is marked
-**[inference]**.
+**[inference]**. Observations of the physical copy are dated and carry a
+reference to the photograph they rest on; statements attributed to Turnovsky or
+Tanaka come from correspondence of 2-3 September 2026.
 
 ---
 
@@ -74,21 +83,36 @@ only the first half of each gathering, so you will see `V`, `V ii`, `V iii`,
 find. **Recto** is the front of the leaf — the right-hand page with the book
 open.
 
-**Signatures are lower-case roman numerals**, set at the foot of the recto near
-the fore-edge — `V ii`, not `V2`. Confirmed on this copy.
+**Signatures are lower-case roman numerals**, set at the foot of the recto —
+`V ii`, not `V2`. Confirmed on this copy. The first leaf of a gathering carries
+the bare letter with no numeral: the leaf opening gathering X is signed simply
+`X`, set below the right-hand column and right of centre rather than hard
+against the fore-edge ([photograph](images/X1r-signature.jpg)). Note that the gathering
+**after V is X**, not W — the 23-letter alphabet again.
 
-**Faster: use the running headers.** Every page carries a centred header giving
-the canto — `CANTO PRIMO`, `CANTO SECONDO` — and it appears on every page, not
-just canto openings. So the quickest route is to find the head of Purgatorio,
-turn until the header reads **`CANTO SECONDO`**, and read down to line 64. The
-headers do not name the canticle, so confirm you are in Purgatorio (gathering
-V) and not Inferno or Paradiso.
+**Faster: use the running headers.** The running title is split across the
+opening: the **verso reads `PVRGATORIO`** and the **recto reads the canto** —
+`CANTO PRIMO`, `CANTO SECONDO` — and it appears on every page, not just canto
+openings. So the quickest route is to open anywhere in Purgatorio, turn until
+the recto header reads **`CANTO SECONDO`**, and read down the verse column.
+Both halves are confirmed on this copy: see [the V6v-V7r opening](images/V6v-V7r.jpg).
+
+> **[corrected 4 Sep 2026]** An earlier draft of this file said the headers do
+> not name the canticle, and told you to confirm the canticle some other way.
+> They do name it — on the verso.
 
 **Observed on this copy** (22 Aug 2026): leaf **V ii recto** carries the header
-`CANTO PRIMO` and *Purgatorio* I.58-69, with roughly **12 lines of verse per
-page**, the rest of the page being commentary. From there, 67 lines finish
-Canto I and 66 more reach *Purg.* II.66 — 133 lines, about 11 pages, or 5 to 6
-leaves. That lands on V7, independently confirming the signature count.
+`CANTO PRIMO` and *Purgatorio* I.58-69, with **12 lines of verse** on that page,
+the rest being commentary. From there, 67 lines finish Canto I and 66 more reach
+*Purg.* II.66 — 133 lines, about 11 pages, or 5 to 6 leaves. That lands on V7,
+and the signature count agrees.
+
+**Do not navigate by a lines-per-page average.** The verse count per page runs
+from 12 to 30, because a page may carry **two** separate verse/commentary bands
+rather than one. V6 verso holds *Purg.* II.25-36 and II.37-54 as two blocks — 30
+verse lines — while V7 recto holds 12. Multiplying an average will put you a
+leaf or two out. Count signatures instead, or jump straight to the leaf in the
+Manchester scan using the formula under "Copies to compare against".
 
 Two ways to go wrong: a second `V` appears later in the doubled series (`AV`,
 around leaf 330) — yours is the **single letter**. And if the signatures are
@@ -108,7 +132,7 @@ exchange.
 | --- | --- |
 | The three lines are **absent** | **Variant A** — the original issue, as first printed |
 | The three lines are **present and hand-stamped** in the lower margin | **Variant B** — the corrected issue |
-| The three lines are present in the normal letterpress text block | Neither — re-examine; this would be unrecorded |
+| The three lines are present, level with the block and in matching ink | Re-examine — see "Result on this copy" below; a genuinely integral setting would be unrecorded |
 
 **Use the rhyme, not the line count.** Terza rima interlocks, so a dropped
 tercet breaks the chain in a way you can see without counting. Line 62 ends
@@ -145,11 +169,68 @@ what you are looking for is **one whole tercet**, missing or stamped in — an
 easier thing to spot than three arbitrary lines. **[inference]** The tercet
 argument is mine; no record states it.
 
-This is an in-press correction, not a separate printing. Both variants are the
-same edition and the same setting of type — 442 leaves, same colophon. Variant
-A is simply the earlier state off the press. **Condition is a separate axis
-from state:** a worn Variant A is bibliographically earlier than a pristine
-Variant B.
+### Result on this copy — Variant B ★
+
+**Observed 4 Sep 2026.** V7 recto carries the tercet. Its verse column runs
+*Purg.* II.55-66 — twelve lines — and 64-66 are the last three:
+
+> Dianzi uenimmo inanzi a uoi un poco,
+> Per altra uia, che fu si aspra e forte,
+> Che lo salir homai ne parra gioco.
+
+![Purgatorio II.62-66 on V7 recto at high magnification, showing the added tercet as the last three lines](images/V7r-tercet-detail.jpg)
+
+*Lines 62-66 on V7 recto. The added tercet is the last three lines. Note the
+wider leading above `Dianzi` and the baselines out of register with the printed
+lines above.* — [`V7r-tercet-detail.jpg`](images/V7r-tercet-detail.jpg)
+
+![The same tercet photographed alongside the foot of the adjacent commentary column](images/V7r-tercet-in-block.jpg)
+
+*The same lines against the right-hand commentary column, which stops level with
+`Dianzi`. Lines 65-66 hang below the bottom boundary of the original text
+block.* — [`V7r-tercet-in-block.jpg`](images/V7r-tercet-in-block.jpg)
+
+Also: [the whole leaf](images/V7r.jpg), and [the full verse column, *Purg.*
+II.55-66](images/V7r-verse-column.jpg).
+
+**Why this is the stamped state, not the third row of the table above.** The
+decisive argument is bibliographical rather than visual: in this edition the
+tercet was never part of the original forme — Variant A copies lack it
+altogether — so its presence *is* the addition. Three physical signs
+corroborate:
+
+- the tercet hangs **below** the point where the adjacent commentary column
+  stops, that is, below the bottom boundary of the original text block;
+- the leading above `Dianzi` is wider than the leading between the printed
+  lines above it;
+- its baselines sit out of register with the lines above.
+
+Treat those three as corroboration and not proof. The photographs were taken at
+an angle over a curved page, which can imitate a sloping baseline on its own.
+
+**Registration varies from copy to copy.** Here the stamp keeps the normal terza
+rima indentation and merely sits low. In the Manchester copy Turnovsky describes
+the addition as displaced on **both** the bottom and left-side margins. That is
+what a sheet-by-sheet hand operation produces, and it means a *well*-registered
+addition is still Variant B — do not require a sloppy one.
+
+**The mechanism is a second pass through the press, not a stop-press
+correction.** Geoffrey Turnovsky (UW Textual Studies, corr. 3 Sep 2026): the
+sheets were printed, and the already-printed sheets were then run through the
+press a second time with newly set type. That is why the added lines carry
+visibly different ink and sit outside the boundaries of the original text block.
+It is *not* the standard stop-press pattern, where the type is unlocked and
+altered mid-run — with a stop-press correction it is obvious why only some
+sheets carry the change, whereas here it is not. Why the second pass was not
+applied to every sheet is unknown.
+
+Both variants remain the same edition and the same setting of type — 442 leaves,
+same colophon. Variant A is simply the state before the second pass.
+**Condition is a separate axis from state:** a worn Variant A is
+bibliographically earlier than a pristine Variant B.
+
+> **[corrected 4 Sep 2026]** An earlier draft called this "an in-press
+> correction, not a separate printing." That was wrong on both halves.
 
 ---
 
@@ -286,15 +367,65 @@ leaves and the endpapers, not the title verso.
 
 | Check | Expected | Your copy |
 | --- | --- | --- |
-| 1. V7 recto, *Purg.* II.64–66 ★ | absent (A) / hand-stamped (B) | |
-| 2. BD2 signature | `BD2` or `AD2` | |
+| 1. V7 recto, *Purg.* II.64–66 ★ | absent (A) / hand-stamped (B) | **present — Variant B** (4 Sep 2026) |
+| 2. BD2 signature | `BD2` or `AD2` | not yet checked |
 | 3. BI8 blank present | yes | yes |
 | 4. Colophon, June 1544 | present | yes |
-| 5. Woodcuts | 87 (3 + 84) | |
-| 6. Leaves | 442 | |
+| 5. Woodcuts | 87 (3 + 84) | not yet counted |
+| 6. Leaves | 442 | not yet counted |
 | 7. Title-page spelling | *noua* / *nova* | `NO,`/`VA` (capitals; = *nova*), *ALIGIERI*, no colon |
 
-**State: Variant ____**
+**State: Variant B.** The three lines are present at the foot of the verse
+column on V7 recto. See "Result on this copy" under Check 1.
+
+Checks 2, 5 and 6 remain open. Nothing found so far contradicts the edition
+identification.
+
+---
+
+## Photographs of this copy
+
+In `images/`. All are JPEGs derived from the original camera PNGs, which are not
+in the repository (roughly 100 MB); the crops are cut from the full-resolution
+originals, not from these JPEGs.
+
+| File | Leaf | Shows |
+| --- | --- | --- |
+| [`V6r.jpg`](images/V6r.jpg) | V6 recto | *Purg.* II.10-24. Show-through of II.54 is visible in the blank foot margin |
+| [`V6v-V7r.jpg`](images/V6v-V7r.jpg) | V6 verso + V7 recto | The key opening. Verso header `PVRGATORIO`, recto header `CANTO SECONDO` |
+| [`V7r.jpg`](images/V7r.jpg) | V7 recto ★ | The whole leaf. The tercet hangs below the foot of the commentary column |
+| [`V7r-verse-column.jpg`](images/V7r-verse-column.jpg) | V7 recto ★ | *Purg.* II.55-66, the full verse column |
+| [`V7r-tercet-detail.jpg`](images/V7r-tercet-detail.jpg) | V7 recto ★ | Lines 62-66 at high magnification — leading, register, inking |
+| [`V7r-tercet-in-block.jpg`](images/V7r-tercet-in-block.jpg) | V7 recto ★ | The tercet against the bottom of the adjacent commentary column |
+| [`V7v-V8r.jpg`](images/V7v-V8r.jpg) | V7 verso + V8 recto | *Purg.* II.67-84 / II.85-. Confirms V7r ends at line 66 |
+| [`V8v-X1r.jpg`](images/V8v-X1r.jpg) | V8 verso + X1 recto | The next gathering opens here |
+| [`X1r-signature.jpg`](images/X1r-signature.jpg) | X1 recto | The signature mark `X` at the foot |
+
+### How the leaf was identified
+
+Not by arithmetic. The three openings photographed are consecutive, and the
+last of them carries a signature:
+
+| Image | verso | recto |
+| --- | --- | --- |
+| [`V6v-V7r.jpg`](images/V6v-V7r.jpg) | V6v — II.25-54 | **V7r — II.55-66** ★ |
+| [`V7v-V8r.jpg`](images/V7v-V8r.jpg) | V7v — II.67-84 | V8r — II.85- |
+| [`V8v-X1r.jpg`](images/V8v-X1r.jpg) | V8v | X1r — **signed `X`** |
+
+![The signature mark X at the foot of the first leaf of the next gathering](images/X1r-signature.jpg)
+
+*The signature `X` at the foot of X1 recto: the bare letter, no numeral, set
+below the right-hand column.* — [`X1r-signature.jpg`](images/X1r-signature.jpg)
+
+Counting back two leaves from the leaf signed `X` gives V7. The verse text runs
+continuously across all three openings, and [`V6r.jpg`](images/V6r.jpg) joins the sequence at the
+front — its last line, II.24, runs straight into II.25 at the head of `V6v`,
+which makes V6r and V6v the two sides of one leaf.
+
+This is worth doing in preference to counting. A first attempt at locating
+[`V6r.jpg`](images/V6r.jpg) from a lines-per-page average put it at V5 recto — one leaf out —
+because V6v carries 30 verse lines in two bands rather than the expected 12 to
+15.
 
 ---
 
@@ -302,14 +433,43 @@ leaves and the endpapers, not the title verso.
 
 | Copy | State | Basis |
 | --- | --- | --- |
+| **John Rylands Library, Manchester** — shelfmark `PR-BULL-00609` | **Variant B** | **Fully digitised and public.** Turnovsky reads the added lines, in distinct ink, at [image 373](https://www.digitalcollections.manchester.ac.uk/view/PR-BULL-00609/373) = V7 recto |
 | **University of Washington** (acquired Mar 2025) | **Variant B** | Julie Tanaka describes "the addition of hand-stamped lines in the lower margin to correct the omission of lines 64-66 in Canto II of Purgatory (II.64-66, leaf V7 recto) in the original publication" |
 | **OCLC 1019666222** | Defines both variants | The fullest record; six named former owners |
 | **OCLC 1184545076** | Cites Cornell's Dante catalogue no. 1544 | The fullest physical description |
 | **Biblioteca Nazionale Centrale di Firenze** | not stated | The copy digitised for ProQuest *Early European Books* |
 
-The UW copy is the most useful comparison: it is documented, recent, and
-unambiguously Variant B. If yours is Variant A, you hold the earlier state of
-the two.
+**Manchester is the one to use.** It is the only copy of this edition that is
+both fully digitised and freely public, it is Variant B, and it can be paged
+leaf by leaf against your own. Start at
+<https://www.digitalcollections.manchester.ac.uk/view/PR-BULL-00609/1>.
+
+**UW cannot be compared directly.** Julie Tanaka (corr. 2 Sep 2026): the UW copy
+was never scanned, because its binding is tight and would not produce good
+scans. It remains useful as a documented Variant B, not as an image source.
+
+### Jumping to a leaf in the Manchester scan
+
+The scan carries four images of binding and flyleaves before the title page, so
+the viewer's image number and the leaf number differ by a constant:
+
+```
+recto of leaf N  ->  image 2N + 3
+verso of leaf N  ->  image 2N + 4
+```
+
+**[inference]** The offset is derived from two points in Turnovsky's
+correspondence — image 11 for sig. 2A4r (leaf 4) and image 373 for V7 recto
+(leaf 185) — which agree on +4, and it closes correctly at the end of the book
+(leaf 442 verso = image 888 = 884 pages + 4). Sanity-check it against a
+signature mark before trusting it for a specific leaf.
+
+| Target | Leaf | Image |
+| --- | --- | --- |
+| First leaf of the poem (sig. `A`) | 27 | 57 |
+| **V7 recto ★** | 185 | **373** |
+| BD2 recto (Check 2) | 396 | 795 |
+| BI8, the final blank (Check 3) | 442 | 887 |
 
 ---
 
@@ -325,7 +485,11 @@ R. M. Beverley · Tobias Theodores · David Lloyd Roberts
 
 **[inference]** David Lloyd Roberts bequeathed his collection to the John
 Rylands Library, Manchester, and Tobias Theodores was a Manchester figure, so
-1019666222 is plausibly the Rylands copy. Laurids Ulfeldt was a 17th-century
+1019666222 is plausibly the Rylands copy. **Support (4 Sep 2026):** the Rylands
+does hold a copy of this edition and has digitised it (`PR-BULL-00609`). That
+raises the odds but does not close the identification — it shows the Rylands has
+*a* copy, not that this OCLC record describes it. Checking the six named former
+owners against the Rylands catalogue entry would settle it. Laurids Ulfeldt was a 17th-century
 Dane and 1141819179 uses Danish conventions ("1 bd : ill."), pointing to a
 Danish institution. Neither is stated in the data — verify against those
 libraries' own catalogues before relying on it.
@@ -342,6 +506,12 @@ the release confirmed this. Holdings coverage is concentrated at the low end of
 the OCLC number range — about 13% of records below OCLC 4,000,000 carry
 holdings data, against 0.007% around OCLC 5.9 billion. This edition's numbers
 run 46 million to 9.3 billion.
+
+Three holders are now known, but all three from **outside** the release: the
+John Rylands Library (digitised, `PR-BULL-00609`), the University of Washington
+(acquired 2025, after the scrape), and the Biblioteca Nazionale Centrale di
+Firenze (the ProQuest surrogate). None of them came from the WorldCat data, and
+none can be matched to a specific OCLC number using it.
 
 Even where holdings records do exist they carry `total_holding_count` and an
 array of **numeric OCLC registry IDs, not institution names**; resolving those
@@ -369,3 +539,10 @@ batches behind these records run September 2022 to May 2023.
   quotations from Beatrice Arduini and Julie Tanaka
 - Matthew Collins, *The Early Printed Illustrations of Dante's Commedia*
   (Notre Dame, 2024) — cited by Arduini; not consulted directly
+- John Rylands Library, University of Manchester, `PR-BULL-00609`, digitised in
+  full: <https://www.digitalcollections.manchester.ac.uk/view/PR-BULL-00609/1>
+- Correspondence, 2-3 September 2026, with Geoffrey Turnovsky (Professor of
+  French; Co-Director, UW Textual Studies) and Julie Tanaka (Associate Dean for
+  Distinctive Collections, UW Libraries), on the variant, the mechanism of the
+  correction, and the availability of scans. Quoted here with attribution; the
+  correspondence itself is not published in this repository.
