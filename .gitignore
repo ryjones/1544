@@ -6,3 +6,7 @@ IMG_*.png
 # and their private replies. Not published here -- the substance is quoted
 # with attribution in README.md instead.
 email.pdf
+
+# macOS Finder metadata. Written into any directory the Finder opens,
+# including images/ -- so match at every level, not just the root.
+.DS_Store

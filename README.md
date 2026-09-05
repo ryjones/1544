@@ -3,12 +3,13 @@
 For determining which issue/state a physical copy is, and what it can be
 compared against.
 
-> **Status — 4 September 2026: this copy is Variant B.** The *Purgatorio*
+> **Status — 5 September 2026: this copy is Variant B.** The *Purgatorio*
 > II.64-66 tercet is present at the foot of the verse column on V7 recto. The
 > leaf is confirmed by the signature `X` two leaves later, not by counting. See
 > [Result on this copy](#result-on-this-copy--variant-b-) and
-> [Photographs of this copy](#photographs-of-this-copy). Checks 2, 5 and 6 are
-> still open.
+> [Photographs of this copy](#photographs-of-this-copy). Check 2 is now closed
+> as well — BD2 is signed `BD ii`, the ordinary state. Checks 5 and 6 are still
+> open.
 
 Everything under "What the catalogues say" is quoted from WorldCat records in
 the Anna's Archive worldcat release (scraped 2022–2023, released 2025-08-04),
@@ -96,6 +97,12 @@ opening: the **verso reads `PVRGATORIO`** and the **recto reads the canto** —
 openings. So the quickest route is to open anywhere in Purgatorio, turn until
 the recto header reads **`CANTO SECONDO`**, and read down the verse column.
 Both halves are confirmed on this copy: see [the V6v-V7r opening](images/V6v-V7r.jpg).
+
+**The spelled-out ordinal is a *Purgatorio* habit, not a rule of the book.** In
+*Paradiso* the recto header switches to roman numerals — `CANTO XXI.`, with a
+full stop ([photograph](images/BD2r-header.jpg)). That matters for Check 2, not
+for this check, but do not carry `CANTO SECONDO` as a template into the back of
+the volume.
 
 > **[corrected 4 Sep 2026]** An earlier draft of this file said the headers do
 > not name the canticle, and told you to confirm the canticle some other way.
@@ -234,20 +241,96 @@ bibliographically earlier than a pristine Variant B.
 
 ---
 
-## Check 2 — signature BD2 / AD2
+## Check 2 — signature BD2 / AD2 ★
 
 In gathering **BD**, leaf **2**: read the signature mark at the foot.
 
 | What you see | Meaning |
 | --- | --- |
-| `BD2` | the ordinary state |
-| `AD2` | the mis-signed variant |
+| `BD ii` | the ordinary state |
+| `AD ii` | the mis-signed variant |
 
 > "Signatures: 2A-2B⁸ 2C¹⁰ A-Z⁸ AB-AZ⁸ BC-BI⁸ (in some copies BD2 signed AD2);
 > (BI8 blank)" — OCLC 1184545076
 
+**The record's `BD2` is shorthand, not what is printed.** As in Check 1, the
+signatures are set as the letters plus a **lower-case roman numeral** — you are
+comparing `BD ii` against `AD ii`, and the discriminator is the single opening
+letter. Confirmed on this copy and on Manchester.
+
 Only one record notes this, so it is a weaker discriminator than Check 1 —
 useful as corroboration, not on its own.
+
+### Finding the leaf
+
+**BD2 = leaf 396 of 442**, in *Paradiso*, about 90% of the way in. Unlike V7,
+this leaf **is signed**: leaf 2 falls in the signed first half of the gathering,
+so the mark you are checking is printed on the very leaf you are looking for.
+You do not have to count to it — you only have to get near it.
+
+**Running header: verso `PARADISO`, recto `CANTO XXI.`**
+
+> **Note the numeral.** In *Paradiso* the recto header uses **roman numerals**
+> — `CANTO XXI.`, with a full stop — not the spelled-out ordinals
+> (`CANTO PRIMO`, `CANTO SECONDO`) that Check 1 tells you to look for in
+> *Purgatorio*. Do not go hunting for `CANTO VENTUNESIMO`.
+
+The header gets you close but not onto the leaf: *Par.* XXI runs from BC7v to
+BD3r, so **four** rectos carry `CANTO XXI.` — BC8r, BD1r, BD2r, BD3r. Finish on
+the signature:
+
+1. Turn into *Paradiso* until a recto header reads **`CANTO XXI.`**
+2. Read the foot of the right-hand column. You want the leaf marked with the
+   gathering letters plus `ii`.
+3. If you are off, the neighbouring marks — `BD`, `BD ii`, `BD iii`, `BD iiii` —
+   walk you in. `BD` alone is the first leaf of the gathering; go forward one.
+
+**Alternative anchor:** *Paradiso* Canto XIX opens on **BC1r**, the first leaf
+of the `BC-BI` series. From there it is 9 leaves forward to BD2.
+
+Both the canto span and that anchor come from the Manchester scan's own
+**Contents** listing, which maps every canto opening to a leaf — `Canto XIX
+(image 777, page BC1r)`, `Canto XXI (image 790, page BC7v)`, `Canto XXII (image
+798, page BD3v)`. It is the fastest way to convert any canto into a signature
+without counting, and it covers all three canticles.
+
+**Confirming the page.** BD2r is Peter Damian in the heaven of Saturn. Its verse
+opens `Quinci uien lallegrezza, ondio fiammeggio` (*Par.* XXI.88) and ends
+`Al seruigio di Dio mi fei si fermo,` (XXI.114); the page carries two
+verse/commentary bands, and the commentary beside the lower band is glossing the
+Apennines dividing Italy. The `ii` sits below the right-hand column, as `X` does
+on X1r.
+
+### Result on this copy — ordinary state
+
+**Observed 5 Sep 2026.** The mark reads **`BD ii`**. The opening letter is
+unambiguously B — two bowls, closed against the stem — not A. This copy is
+**not** the mis-signed variant.
+
+![The signature BD ii at the foot of BD2 recto](images/BD2r-signature.jpg)
+
+*`BD ii` at the foot of BD2 recto, below the right-hand commentary column.*
+— [`BD2r-signature.jpg`](images/BD2r-signature.jpg)
+
+![The running header CANTO XXI. at the head of BD2 recto](images/BD2r-header.jpg)
+
+*The recto header `CANTO XXI.`: roman numeral and full stop, the Paradiso
+convention.* — [`BD2r-header.jpg`](images/BD2r-header.jpg)
+
+Also: [the whole leaf](images/BD2r.jpg).
+
+**Manchester reads `BD ii` too** (checked 5 Sep 2026 at
+[image 795](https://www.digitalcollections.manchester.ac.uk/view/PR-BULL-00609/795)).
+So the reference copy is *also* the ordinary state, which means **Check 2 cannot
+currently be exercised against a known mis-signed copy** — no `AD ii` copy has
+been located. Two copies agreeing tells you the ordinary state is the common
+one; it does not tell you how rare `AD ii` is, and no record beyond OCLC
+1184545076 mentions it at all.
+
+Incidentally, image 795 is where the viewer's own leaf label reads `BD2r`, which
+**independently confirms the `2N + 3` offset formula** below at the far end of
+the book — the formula was derived from two points near the front and at V7, and
+this is a third check 211 leaves later.
 
 ---
 
@@ -368,7 +451,7 @@ leaves and the endpapers, not the title verso.
 | Check | Expected | Your copy |
 | --- | --- | --- |
 | 1. V7 recto, *Purg.* II.64–66 ★ | absent (A) / hand-stamped (B) | **present — Variant B** (4 Sep 2026) |
-| 2. BD2 signature | `BD2` or `AD2` | not yet checked |
+| 2. BD2 signature ★ | `BD ii` or `AD ii` | **`BD ii` — ordinary state** (5 Sep 2026) |
 | 3. BI8 blank present | yes | yes |
 | 4. Colophon, June 1544 | present | yes |
 | 5. Woodcuts | 87 (3 + 84) | not yet counted |
@@ -378,7 +461,7 @@ leaves and the endpapers, not the title verso.
 **State: Variant B.** The three lines are present at the foot of the verse
 column on V7 recto. See "Result on this copy" under Check 1.
 
-Checks 2, 5 and 6 remain open. Nothing found so far contradicts the edition
+Checks 5 and 6 remain open. Nothing found so far contradicts the edition
 identification.
 
 ---
@@ -400,6 +483,9 @@ originals, not from these JPEGs.
 | [`V7v-V8r.jpg`](images/V7v-V8r.jpg) | V7 verso + V8 recto | *Purg.* II.67-84 / II.85-. Confirms V7r ends at line 66 |
 | [`V8v-X1r.jpg`](images/V8v-X1r.jpg) | V8 verso + X1 recto | The next gathering opens here |
 | [`X1r-signature.jpg`](images/X1r-signature.jpg) | X1 recto | The signature mark `X` at the foot |
+| [`BD2r.jpg`](images/BD2r.jpg) | BD2 recto ★ | The whole leaf — *Par.* XXI.88-114 in two verse/commentary bands |
+| [`BD2r-signature.jpg`](images/BD2r-signature.jpg) | BD2 recto ★ | The signature `BD ii` at the foot (Check 2) |
+| [`BD2r-header.jpg`](images/BD2r-header.jpg) | BD2 recto ★ | The running header `CANTO XXI.` — the *Paradiso* numeral convention |
 
 ### How the leaf was identified
 
@@ -458,11 +544,17 @@ recto of leaf N  ->  image 2N + 3
 verso of leaf N  ->  image 2N + 4
 ```
 
-**[inference]** The offset is derived from two points in Turnovsky's
+The offset was originally an **[inference]** from two points in Turnovsky's
 correspondence — image 11 for sig. 2A4r (leaf 4) and image 373 for V7 recto
 (leaf 185) — which agree on +4, and it closes correctly at the end of the book
-(leaf 442 verso = image 888 = 884 pages + 4). Sanity-check it against a
-signature mark before trusting it for a specific leaf.
+(leaf 442 verso = image 888 = 884 pages + 4).
+
+**Now confirmed independently (5 Sep 2026).** The Manchester viewer labels each
+leaf itself, and image 795 is labelled `BD2r` — matching the formula's
+prediction for leaf 396, 211 leaves beyond the furthest previous check. The
+label is also in the IIIF manifest (`canvas/795`, `"label": "BD2r"`), so the
+whole leaf-to-image mapping can be read off the manifest rather than computed.
+The formula is reliable; the manifest is authoritative if the two ever differ.
 
 | Target | Leaf | Image |
 | --- | --- | --- |
